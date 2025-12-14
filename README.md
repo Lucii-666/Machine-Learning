@@ -17,5 +17,5 @@ Ashutosh Kumar Singh
 
 ## Professors
 
-* Sir. Chandrasinh Parmar
-* Sir. Nishith Kotak
+* Prof. Chandrasinh Parmar
+* Prof. Nishith Kotak
